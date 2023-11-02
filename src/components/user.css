@@ -1,0 +1,15 @@
+.divStyle {
+  border: 2px solid aliceblue;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.update {
+  margin-right: 10px;
+}
